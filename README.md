@@ -37,7 +37,7 @@ The objective of this project is to implement a straightforward stopwatch applic
 These modifications aim to improve readability, fix grammatical errors, and provide clarity regarding the reasons for adding specific features or dependencies.
 
 ## Demo
-![GIF Demo](././demo_responsive_gif.gif?raw=true)
+![GIF Demo](././gif_demo_responsive.gif?raw=true)
 
 ## Tests result 
 ![Tests](./test_results.png)
