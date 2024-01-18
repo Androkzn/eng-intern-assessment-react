@@ -34,8 +34,6 @@ The objective of this project is to implement a straightforward stopwatch applic
 - **Material-UI Integration:** Incorporated ```@mui/icons-material``` and ```@mui/material``` to provide icons and enhance the user experience.
 - **Pretty-Format Dependency:** Added ```pretty-format``` for improved formatting in various project parts.
 
-These modifications aim to improve readability, fix grammatical errors, and provide clarity regarding the reasons for adding specific features or dependencies.
-
 ## Demo
 ![GIF Demo](././gif_demo_responsive.gif?raw=true)
 
