@@ -57,9 +57,13 @@ function useStopwatch() {
     setIsStarted(false);
     setTime(0);
     setLaps([]);
+    cleanLocalStorage()
+  };
+
+  const cleanLocalStorage=() => {
     localStorage.setItem('stopwatch_time', '0');
     localStorage.setItem('stopwatch_laps', JSON.stringify([]));
-  };
+  }
 
   const addLap = () => {
     // Get the last lap
@@ -88,6 +92,7 @@ function useStopwatch() {
     stopTimer,
     resetTimer,
     addLap,
+    cleanLocalStorage,
   };
 }
 

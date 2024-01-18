@@ -15,6 +15,7 @@ export default function StopWatch() {
     stopTimer,
     resetTimer,
     addLap,
+    cleanLocalStorage,
   } = useStopwatch();
 
   useEffect(() => {
@@ -33,7 +34,7 @@ export default function StopWatch() {
     event.returnValue = 'Are you sure you want to exit?';
     const shouldReload = window.confirm;
     if (shouldReload) {
-      resetTimer()
+      cleanLocalStorage()
     }
     return event.returnValue;
   };
