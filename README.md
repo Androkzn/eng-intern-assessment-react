@@ -28,7 +28,7 @@ The objective of this project is to implement a straightforward stopwatch applic
 - **Media Query Support:** Added media queries to facilitate responsive design and provide different layouts for distinct screen sizes.
 - **Util and Styles Folders:** Introduced utils and styles folders to modularize helper functions, enums, and styles for better maintainability.
 - **Unit Test Suites:** Modified unit test suites to cover main functionality, ensuring the stopwatch functionalities work correctly.
-- **Testing Dependencies:** Added ```@testing-library/jest-dom``` and ```jest-environment-jsdom``` as dev dependencies. Adjusted Jest configuration to mock styles and set the testing environment to ```jsdom```.
+- **Testing Dependencies:** Added ```@testing-library/jest-dom``` and ```jest-environment-jsdom``` as dev dependencies. Adjusted the configuration of Jest and set the testing environment to ```jsdom```.
 - **Styling Improvements:** Added ```index.css``` and modified ```index.html``` to override default styles and apply custom fonts.
 - **Emotion Package Integration:** Added ```@emotion/react``` and ```@emotion/styled``` for a more convenient way to handle media queries.
 - **Material-UI Integration:** Incorporated ```@mui/icons-material``` and ```@mui/material``` to provide icons and enhance the user experience.
