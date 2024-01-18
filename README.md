@@ -6,7 +6,7 @@ The objective of this project is to implement a straightforward stopwatch applic
 
 ## Link to the published app 
 
-**[Try Stopwatch App](https://androkzn.github.io/stopwatch_app/)**
+**[Try Stopwatch App](https://androkzn.github.io/eng-intern-assessment-react/)**
 
 ## Main Functionality
 
