@@ -39,5 +39,5 @@ These modifications aim to improve readability, fix grammatical errors, and prov
 ## Demo
 ![GIF Demo](././gif_demo_responsive.gif?raw=true)
 
-## Tests result 
+## Tests results 
 ![Tests](./test_results.png)
