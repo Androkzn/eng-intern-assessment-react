@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The objective of this project is to implement a straightforward stopwatch application using React and TypeScript, incorporating various features for enhanced user experience and maintainability. The stopwatch boasts the following functionalities:
+The objective of this project is to implement a straightforward stopwatch application using React and TypeScript and incorporating various features for enhanced user experience and maintainability.  
 
 ## Link to the published app 
 
