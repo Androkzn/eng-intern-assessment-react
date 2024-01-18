@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The objective of this project is to implement a straightforward stopwatch application using React and TypeScript and incorporating various features for enhanced user experience and maintainability.  
+The objective of this project is to implement a straightforward stopwatch application using React and TypeScript and incorporating various features for an enhanced user experience and maintainability.  
 
 ## Link to the published app 
 
@@ -17,9 +17,9 @@ The objective of this project is to implement a straightforward stopwatch applic
 - [x] Lap button: records a lap and displays it.
 
 **Additional Features**
-- [x] Performance Visibility: Displays best (green-coloured) and worst (orange-coloured) laps.
-- [x] Reload Safety: The page will reload only after the user confirms if the stopwatch is running.
-- [x] Persistence of Latest Data: Time and laps are recorded and stored in a cache. Pressing the reload button does not reset the stopwatch to zero.
+- [x] Performance Visibility: Displays the best (green-coloured) and the worst (orange-coloured) laps.
+- [x] Reload Safety: The page will reload only after the user confirms the stopwatch is running.
+- [x] Persistence of Latest Data: Time and laps are recorded and stored in a local storage. Pressing the reload button does not reset the stopwatch to zero.
 - [x] Responsive Design: Different layouts for different screen sizes ensure a seamless user experience.
 
 ## Changes
